@@ -14,10 +14,8 @@ import (
 const (
 	dwLocalPlayer       = 0xd3fc5c
 	dwEntityList        = 0x4d5442c
-	dwGlowObjectManager = 0x529c208
 	iGlowIndex          = 0xa438
 	m_iTeamNum          = 0xF4
-	bDormant            = 0xed
 	m_iCrosshairId	    = 0xb3e4
 	dwForceAttack	    = 0x3185984
 )
