@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 	"time"
-	"ReadWriteMemory"
+	"/ReadWriteMemory"
 
 
 	
@@ -18,8 +18,8 @@ const (
 	iGlowIndex          = 0xa438
 	m_iTeamNum          = 0xF4
 	bDormant            = 0xed
-	m_iCrosshairId		= 0xb3e4
-	dwForceAttack		= 0x3185984
+	m_iCrosshairId	    = 0xb3e4
+	dwForceAttack	    = 0x3185984
 )
 
 
