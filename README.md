@@ -7,4 +7,5 @@ While CS:GO is running, execute the program. Trigger key is shift. Update the of
 
 ____________________________
 
-Credit to https://guidedhacking.com/members/meow.160618/ for the memory library.
+Credit to https://guidedhacking.com/members/meow.160618/ for the memory library, and credit to
+https://github.com/Snaacky for the original python source, that i translated to Go.
