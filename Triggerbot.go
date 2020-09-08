@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 	"time"
-	"ReadWriteMemory" // If the import is not working, put the /ReadWriteMemory in your GOPATH
+	"github.com/H3nr1X/ReadWriteMemory"
 )
 const ( // https://github.com/frk1/hazedumper for offsets
 	dwLocalPlayer       = 0xd3fc5c
