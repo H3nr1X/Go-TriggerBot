@@ -46,6 +46,7 @@ func main() {
 			if entity_id > 0 && entity_id <= 64 && player_team != entity_team {
 					process.WriteInt(client + dwForceAttack, 6)
 					time.Sleep(time.Millisecond * 120)
+		time.Sleep(time.Millisecond * 10)
 		}
 	}
 	}
