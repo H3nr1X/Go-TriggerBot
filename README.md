@@ -1,5 +1,5 @@
 # Go-TriggerBot
-A simple triggerbot for CS:GO made in Golang
+A simple external triggerbot for CS:GO made in Golang
 
 # Usage
 
